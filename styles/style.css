@@ -1,0 +1,70 @@
+* {
+    font-family: 'Inconsolata', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Space Mono', monospace;
+}
+
+
+.nav-title {
+    color: #333;
+    font-family: 'Inconsolata';
+    font-size: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 30px;
+}
+
+.banner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px;
+}
+
+.banner img {
+    width: 600px;
+}
+.banner-content{
+    width: 800px;
+    margin: 30px;
+}
+
+.banner-title {
+    color: #333;
+    font-family: 'Space Mono';
+    font-size: 64px;
+    font-weight: 700;
+}
+
+.banner-content p {
+    color: #4F4F4F;
+    font-family: 'Space Mono';
+    font-size: 24px;
+    font-weight: 400;
+    padding-right: 400px;
+}
+
+.btn-primary {
+    width: 216px;
+    height: 68px;
+    background: #333;
+    color: #FFF;
+    font-family: 'Space Mono';
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-top: 50px;
+}
+
+.footer {
+    margin-top: 100px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.footer p {
+    color: #BDBDBD;
+    font-family: 'Montserrat';
+    font-size: 14px;
+    font-weight: 700;
+}
